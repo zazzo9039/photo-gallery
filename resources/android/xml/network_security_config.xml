@@ -2,5 +2,8 @@
 <network-security-config>
     <domain-config cleartextTrafficPermitted="true">
         <domain includeSubdomains="true">localhost</domain>
+        <domain includeSubdomains="true">192.168.1.213</domain>
+        <domain includeSubdomains="true">sever.dev.ns0.it</domain>
+        <domain includeSubdomains="true">pngtree.com</domain>
     </domain-config>
 </network-security-config>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056921301516",
+    "project_id": "vitae-91632",
+    "storage_bucket": "vitae-91632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056921301516:android:9615b2f9f35e1e68e77429",
+        "android_client_info": {
+          "package_name": "com.vitae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056921301516-nvht1u7k5dbsnkapnupb03bn3aabdv60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8bpIhG3A0xNvSELuxjRnKUTNq5exKG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056921301516-nvht1u7k5dbsnkapnupb03bn3aabdv60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
